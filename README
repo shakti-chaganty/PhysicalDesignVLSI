@@ -26,4 +26,8 @@ This file runs another channel routing problem example from the link below:
 http://users.ece.gatech.edu/limsk/book/slides/pdf/yoshimura-kuh.pdf
 
 All programs are written to run on Python 2.7.
+
+Programs contain top [] and bottom [] lists containing pins to be routed are inside Source code directory. This list is provided
+by the user.
+
   
