@@ -1,6 +1,8 @@
-PROJECT ON PHYSICAL DESIGN: CAD of Digital Circuits
-Source code directory contains my program implementing Left Edge Channel Routing Algorithm.
-I have tried several channel routing problems successfully with my program.
+THIS IS MY PROJECT GRADUATE COURSE PROJECT ON PHYSICAL DESIGN: CAD of Digital Circuits
+
+Source code directory contains my program implementing Left Edge Channel Routing Algorithm (Global Routing problem).
+
+I have implemented several channel routing problems successfully with my program.
 
 Input to the program:
 
