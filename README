@@ -1,4 +1,4 @@
-THIS IS MY PROJECT GRADUATE COURSE PROJECT ON PHYSICAL DESIGN: CAD of Digital Circuits
+THIS IS MY GRADUATE COURSE PROJECT ON FUNDEMENTAL CAD TECHNIQUES FOR PHYSICAL DESIGN AUTOMATION.
 
 Source code directory contains my program implementing Left Edge Channel Routing Algorithm (Global Routing problem).
 
@@ -6,20 +6,19 @@ I have implemented several channel routing problems successfully with my program
 
 Input to the program:
 
-Please enter appropriate pins in two lists top[] and bottom[] in the file Figure11.py if you want to solve any other
-channel routing problem
+Two lists top[] and bottom[] containing pin names. Pin names should be integers.
 
-File named Figure11.py :
+File named Route_Figure11.py :
 
-The top and bottom pins of the file named Figure11.py are taken from Figure 11 of the link below:
+The top and bottom pins of the file named Figure11.py are taken from Figure 11 of Dr.Kalla's publication:
 http://www.ece.utah.edu/~kalla/papers/TCAD2014-optical-interconnects-kalla.pdf 
 
-File named Figure11b.py :
+File named Route_Figure11b.py :
 
 This file runs the same problem by selecting one pin from the left top and other pin from right bottom
 (this cell selection is hard coded) and so on.
 
-File named test.py :
+File named Route.py :
 
 This file runs another channel routing problem example from the link below:
 
